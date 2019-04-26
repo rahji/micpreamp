@@ -29,3 +29,5 @@ You could experiment with leaving out C1, C2, and/or C3, but I used them on the 
 You can order [the PCB from Oshpark](https://oshpark.com/shared_projects/s4lVvGy5) if you want. You'll get three boards for the price that they show. A couple notes about soldering the components to the board: First, everything is soldered on the *top* side of the board. Obviously the jacks go on last (since most of the other components are underneath the jacks). It's okay to solder the battery snap leads on after the jacks, though. Second: Even though I added thermals where the 10uF caps get soldered to the ground plane, it's difficult to get the heat right if you're soldering by hand. This might be a good project with which to hone your hot plate, toaster oven, hot air reflow, or other techniques, rather than soldering with an iron. 🤷🏽‍♂️
 
 Have fun :)
+
+![schematic](schematic.png)
